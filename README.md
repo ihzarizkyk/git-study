@@ -5,3 +5,6 @@
 https://training.github.com/downloads/id/github-git-cheat-sheet/
 
 https://aboucaud.github.io/slides/2017/git-tutorial
+
+Join gdsc itts discord
+http://discord.gg/Y8PUqEZrZN
